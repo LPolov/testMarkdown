@@ -12,3 +12,5 @@
 * Unordered 3
     
 This is my *new* **class**!
+
+![Beautiful img](https://avatarko.ru/img/kartinka/33/multfilm_lyagushka_32117.jpg)
