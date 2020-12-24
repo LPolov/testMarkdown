@@ -1,14 +1,14 @@
 # Just a simple class
 
 
-    1. One
-    2. Two
-    3. Three
+1. Ordered
+    1. Ordered
+2. Ordered
     
     
-    *Unordered point 1
-    *Unordered point 2
-        *Unordered point 2a
-    *Unordered point 3
+* Unordered 1
+* Unordered 2
+    * Unordered 2a
+* Unordered 3
     
 This is my *new* **class**!
