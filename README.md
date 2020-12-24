@@ -6,9 +6,9 @@
     3. Three
     
     
-    * Unordered point 1
-    * Unordered point 2
-        * Unordered point 2.1
-    * Unordered point 3
+    *Unordered point 1
+    *Unordered point 2
+        *Unordered point 2a
+    *Unordered point 3
     
 This is my *new* **class**!
