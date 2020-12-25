@@ -7,5 +7,7 @@ public class SimpleClass {
 
         System.out.println("Issue is appeared.");
         System.out.println("Issue is solved.");
+
+        System.out.println("New feature is added.");
     }
 }
