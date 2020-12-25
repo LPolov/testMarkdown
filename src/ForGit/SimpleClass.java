@@ -9,5 +9,8 @@ public class SimpleClass {
         System.out.println("Issue is solved.");
 
         System.out.println("New feature is added.");
+
+
+        System.out.println("Lets push smth from additional local branch.");
     }
 }
