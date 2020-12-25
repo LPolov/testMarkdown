@@ -6,5 +6,6 @@ public class SimpleClass {
         System.out.println("My new project.");
 
         System.out.println("Issue is appeared.");
+        System.out.println("Issue is solved.");
     }
 }
