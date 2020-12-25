@@ -12,5 +12,8 @@ public class SimpleClass {
 
 
         System.out.println("Lets push smth from additional local branch.");
+        
+
+        System.out.println("Add new content to feature branch.");
     }
 }
