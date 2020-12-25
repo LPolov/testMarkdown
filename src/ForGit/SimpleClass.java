@@ -3,7 +3,11 @@ package ForGit;
 public class SimpleClass {
 
     public static void main(String[] args) {
-        System.out.println("First git.");
-        int i = 7;
+        System.out.println("My new project.");
+
+        System.out.println("Issue is appeared.");
+        System.out.println("Issue is solved.");
+
+        System.out.println("New feature is added.");
     }
 }
